@@ -29,7 +29,7 @@ export default function About() {
                         Telecom Operators: (Revolutionizing Connectivity)
                     </h2>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-myblue">
-                        At its core, FutureTekni remains deeply committed to revolutionizing the telecommunications industry. With cutting-edge technologies in 5G, IoT, and satellite communications, the company has enabled Telecom Operators worldwide to provide faster, more reliable, and secure connectivity to billions of people. FutureTekni's solutions have ushered in a new era of digital communication, connecting individuals, businesses, and governments in ways previously unimaginable.
+                        At its core, FutureTekni remains deeply committed to revolutionizing the telecommunications industry. With cutting-edge technologies in 5G, IoT, and satellite communications, the company has enabled Telecom Operators worldwide to provide faster, more reliable, and secure connectivity to billions of people. FutureTeknis solutions have ushered in a new era of digital communication, connecting individuals, businesses, and governments in ways previously unimaginable.
                     </p>
                     <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors  first:mt-0 text-myred uppercase mt-7">
                         Defence, Marine, and Aviation: (Securing the Unseen Frontiers)
@@ -41,7 +41,7 @@ export default function About() {
                         Oil & Gas: (Fueling the World, Sustainably)
                     </h2>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-myblue">
-                        In the energy sector, FutureTekni plays a pivotal role in the Oil & Gas industry's transformation towards sustainability. The company's expertise in remote monitoring, predictive maintenance, and renewable energy integration ensures that energy production remains efficient, eco-friendly, and resilient.
+                        In the energy sector, FutureTekni plays a pivotal role in the Oil & Gas industrys transformation towards sustainability. The companys expertise in remote monitoring, predictive maintenance, and renewable energy integration ensures that energy production remains efficient, eco-friendly, and resilient.
                     </p>
                     <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors  first:mt-0 text-myred uppercase mt-7">
                         Non-Government Organizations: (Empowering Humanitarian Initiatives)
@@ -59,25 +59,25 @@ export default function About() {
                         Federal & Local Government: (Strengthening Governance)
                     </h2>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-myblue">
-                        Governments worldwide rely on FutureTekni to strengthen their digital infrastructure and communication networks. The company's solutions enhance efficiency, security, and transparency, enabling governments to better serve their citizens.
+                        Governments worldwide rely on FutureTekni to strengthen their digital infrastructure and communication networks. The companys solutions enhance efficiency, security, and transparency, enabling governments to better serve their citizens.
                     </p>
                     <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors  first:mt-0 text-myred uppercase mt-7">
                         Healthcare: (Advancing Patient Care)
                     </h2>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-myblue">
-                        In the healthcare sector, FutureTekni's innovations are saving lives. Through telemedicine, remote monitoring, and data-driven solutions, the company empowers healthcare providers to deliver high-quality care, even in remote areas.
+                        In the healthcare sector, FutureTeknis innovations are saving lives. Through telemedicine, remote monitoring, and data-driven solutions, the company empowers healthcare providers to deliver high-quality care, even in remote areas.
                     </p>
                     <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors  first:mt-0 text-myred uppercase mt-7">
                         Broadcasting: (Connecting the World)
                     </h2>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-myblue">
-                        FutureTekni's influence in the Broadcasting industry is evident through its contribution to the seamless transmission of information, entertainment, and culture. The company's state-of-the-art broadcasting technologies ensure that the world remains connected, informed, and entertained.
+                        FutureTeknis influence in the Broadcasting industry is evident through its contribution to the seamless transmission of information, entertainment, and culture. The companys state-of-the-art broadcasting technologies ensure that the world remains connected, informed, and entertained.
                     </p>
                     <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors  first:mt-0 text-myred uppercase mt-7">
                         A Legacy of Innovation and Excellence
                     </h2>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-myblue">
-                        FutureTekni's remarkable journey from a telecommunications solutions provider to a global conglomerate serving diverse industries reflects its unwavering commitment to innovation, excellence, and a sustainable future. As the world continues to evolve, FutureTekni stands poised to lead the way, shaping the future of technology, communication, and infrastructure for generations to come.
+                        FutureTeknis remarkable journey from a telecommunications solutions provider to a global conglomerate serving diverse industries reflects its unwavering commitment to innovation, excellence, and a sustainable future. As the world continues to evolve, FutureTekni stands poised to lead the way, shaping the future of technology, communication, and infrastructure for generations to come.
                     </p>
 
                 </div>
